@@ -42,7 +42,7 @@ This project addresses the problem by combining **complaint volume** with **cust
 
 ## 📸 Dashboard Preview
 ![Dashboard Overview](screenshots/dashboard_overview.png)
-![Issue Prioritization](screenshots/issue_prioritization.png)
+![Issue Prioritization](screenshots/issue_prioritisation.png)
 ![Key Insights](screenshots/key_insights.png)
 
 ----
