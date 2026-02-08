@@ -40,6 +40,13 @@ This project addresses the problem by combining **complaint volume** with **cust
 
 ---
 
+## 📸 Dashboard Preview
+![Dashboard Overview](screenshots/overview.png)
+![Issue Prioritization](screenshots/issue_prioritization.png)
+![Key Insights](screenshots/key_insights.png)
+
+----
+
 ## 🔍 Key Insights
 - **Pricing and Performance issues** generate the highest number of Canva customer complaints
 - **Export-related issues** show the lowest average ratings, indicating severe customer dissatisfaction
